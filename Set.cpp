@@ -1,10 +1,10 @@
 #include <vector>
 
 class Set {
-private:
+ private:
     std::vector<int64_t> setVector;
 
-public:
+ public:
     Set() = default;
 
     explicit Set(const std::vector<int64_t> &set_vector) {
@@ -46,9 +46,9 @@ public:
         return differenceSet;
     }
 
-    static Set SymmetricDifference(const Set &anotherVec) {
-        const Set &unionSet(anotherVec);
-        Set intersectionSet(anotherVec);
+    Set SymmetricDifference(const Set &anotherVec) {
+        Set unionSet = Union(anotherVec);
+        Set intersectionSet = Intersection(anotherVec);
         return unionSet.Difference(intersectionSet);
     }
 
