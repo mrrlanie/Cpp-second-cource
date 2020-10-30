@@ -4,6 +4,9 @@
 - [link for CATS](https://imcs.dvfu.ru/cats/?f=problems;cid=4917802;sid=5nM8AIRq4kwyw7bmLYLbI8ZiVfJSUW)
 
 
-##Second task (*IN PROGRESS*)
+##Second task (*CONPLITED!*)
 - Making class for complex num`s 
 [link for GIT classroom](https://classroom.github.com/assignment-invitations/d3cb714692f478c2fc41b88d98e146b0/status)
+
+##Third task (*IN PROGRESS*)
+- [link for CATS](https://imcs.dvfu.ru/cats/?f=problems;cid=5011656;sid=R7pOxINj4PMeIRUSVo0VUKWSzLkxAC)
