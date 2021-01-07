@@ -5,7 +5,7 @@
 
 ##Second task (*COMPLITED!*)
 - Making class for complex num`s 
-[link for GIT classroom](https://classroom.github.com/assignment-invitations/d3cb714692f478c2fc41b88d98e146b0/status)
+ [link for GIT classroom](https://classroom.github.com/assignment-invitations/d3cb714692f478c2fc41b88d98e146b0/status)
 
 ##Third task (*COMPLITED!*)
 - [link for CATS](https://imcs.dvfu.ru/cats/?f=problems;cid=5011656;sid=R7pOxINj4PMeIRUSVo0VUKWSzLkxAC)
@@ -17,4 +17,4 @@
 - [link for CATS](https://imcs.dvfu.ru/cats/?f=problems;cid=5136926;sid=iGTAB4AlE04oxPiaIiA8QNGzqbLaRG)
 
 ##Sixth task (*IN PROGRESS!*)
-[link for GIT classroom](https://classroom.github.com/assignment-invitations/b29e0c1c815cfa0378e7b61d784efcad)
+ [link for GIT classroom](https://classroom.github.com/assignment-invitations/b29e0c1c815cfa0378e7b61d784efcad)
