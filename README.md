@@ -18,7 +18,3 @@
 
 ##Sixth task (*IN PROGRESS!*)
 + [link for GIT classroom](https://classroom.github.com/assignment-invitations/b29e0c1c815cfa0378e7b61d784efcad)
-
-
-
-tasks for 2-nd cource AMI (C++)
